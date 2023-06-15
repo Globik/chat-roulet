@@ -1,0 +1,1 @@
+{"version":3,"file":"deleteMessage.dto.js","sourceRoot":"","sources":["../../../../src/gateways/message-gateway/dto/deleteMessage.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA6C;AAE7C,MAAa,gBAAgB;CAS5B;AARG;IAAC,IAAA,4BAAU,GAAE;;mDACK;AAElB;IAAC,IAAA,4BAAU,GAAE;;gDACE;AAEf;IAAC,IAAA,4BAAU,GAAE;;gDACE;AARnB,4CASC"}
